@@ -1,4 +1,4 @@
 git init(to intialze git)
 git add -A(adding to stageing area)
 git commit -m"helli im here"(adding to local repository)
-git status(to list all untacked file) 
+git status(to list all untrsacked file) 
