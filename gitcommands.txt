@@ -1,1 +1,3 @@
 git init(to intialze git)
+git add -A()
+git commit -m"helli im here"
